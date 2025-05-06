@@ -177,3 +177,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Model 
+class_dictionary.json
+saved_model.pkl
